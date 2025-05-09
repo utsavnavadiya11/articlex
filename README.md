@@ -13,12 +13,18 @@ API.
 ## Setup Instructions
 
 1. Clone the repo:
+```
    git clone https://github.com/utsavnavadiya11/articlex
    cd articlex
-2. Install dependencies:
+```
+3. Install dependencies:
+```
    flutter pub get
-3. Run the app:
+```
+4. Run the app:
+```
    flutter run
+```
 
 ## Tech Stack
 
