@@ -13,7 +13,7 @@ API.
 ## Setup Instructions
 
 1. Clone the repo:
-   git clone <your-repo-link>
+   git clone https://github.com/utsavnavadiya11/articlex
    cd articlex
 2. Install dependencies:
    flutter pub get
@@ -36,3 +36,4 @@ Used Getx State Management for effortltss routing and state management. With Get
 Caching Could be Implemented for better UX
 
 ## Screenshots (Optional)
+https://github.com/user-attachments/assets/c82e852c-a89a-4129-9071-eac3234dc008
